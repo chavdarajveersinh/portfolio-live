@@ -49,8 +49,11 @@ A beautifully designed modern, animated and responsive developer portfolio built
 # 🔥 Why This Portfolio Stands Out
 
 ⚡ Smooth UI animations
+
 🎨 Modern gradient styling
+
 📌 Designed like industry standard digital identity page
+
 📄 Clean structural coding & reusable components
 - - -
 # 🛠️ Installation & Setup
@@ -89,8 +92,11 @@ public/               → Resume PDF, static files
 # 🧩 Future Scope
 
 🔸 Blog Section
+
 🔸 Skills certificate gallery
+
 🔸 Dark/Light mode
+
 🔸 Live API integration for GitHub stats
 - - -
 # 👨‍💼 Author
