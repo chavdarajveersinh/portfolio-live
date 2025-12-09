@@ -21,19 +21,29 @@ A beautifully designed modern, animated and responsive developer portfolio built
 # ✨ Features
 
 ✔️ Fully responsive UI
+
 ✔️ Animated hero section and smooth transitions
+
 ✔️ Interactive project showcase
+
 ✔️ Live CV view + resume download support
+
 ✔️ Modern color gradients & glassmorphism
+
 ✔️ Route-based navigation pages (Home, Skills, Projects, Contact, etc.)
+
 ✔️ Designed for professional identity and branding
 - - -
 # 📌 Pages Included
 
 🔸 Home Page – Intro, animated hero section, CV buttons
+
 🔸 Skills Page – Technical stack and experience
+
 🔸 Projects Page – Selected major projects & summaries
+
 🔸 Achievements/Experience – Work & learning highlights
+
 🔸 Contact Page – Direct communication CTA
 - - -
 # 🔥 Why This Portfolio Stands Out
@@ -86,7 +96,7 @@ public/               → Resume PDF, static files
 # 👨‍💼 Author
 
 Rajveersinh K. Chavda
-Full-Stack Developer | AI Explorer | CivicTech Builder
+Full-Stack Developer | Product-Builder | AI Explorer
 
 📌 GitHub: https://github.com/chavdarajveersinh
 
