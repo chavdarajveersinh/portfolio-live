@@ -7,7 +7,7 @@ A beautifully designed modern, animated and responsive developer portfolio built
 🔗 Hosted on Vercel
 (Replace below link with your live domain)
 
-➡️ https://portfolio-live.vercel.app
+➡️ https://portfolio-live-me.vercel.app/
 - - -
 # 🚀 Tech Stack
 
